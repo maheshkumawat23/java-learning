@@ -1,2 +1,1 @@
-# java-learning
-My simple Java programs
+This repositiory contains simple java programs, to start from the basic.
